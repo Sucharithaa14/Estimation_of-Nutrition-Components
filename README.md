@@ -44,5 +44,9 @@ Visit `http://127.0.0.1:8000`
 ### Admin Panel
 ![Admin](https://github.com/user-attachments/assets/5517e976-8661-4f09-b937-7c0a5c1af4a9)
 
+### Result
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/b22f369d-d8ee-45b1-a79a-07793cc2e466" />
+
+
 ## Project Context
 Built as an academic project during B.Tech (CSE - Data Science) at Sri Indu College of Engineering & Technology, Hyderabad.
